@@ -1,4 +1,4 @@
-### Hi, I'm Micael Diniz 👋
+### Hi, I'm Micael Diniz!
 
 - 🔭 Full Stack Development Student in Kenzie Academy Brasil 
 - 📚 Front End Developer with skills in ReactJs,Typescript, Javascript, HTML and CSS 
