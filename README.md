@@ -2,7 +2,7 @@
 
 - 🔭 Full Stack Development Student in Kenzie Academy Brasil 
 - 📚 Front End Developer with skills in ReactJs,Typescript, Javascript, HTML and CSS 
-- 🌱 I’m currently learning Angular, Python, Flask and SQL 
+- 🔎 I’m currently learning Angular, Python, Flask and SQL 
 - 📫 Reach me in <a href="https://www.linkedin.com/in/micael-diniz">Linkedin</a> or micaeldiniz6@gmail.com
 </br>
 
