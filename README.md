@@ -1,6 +1,6 @@
 ### Hi, I'm Micael Diniz!
 
-- 🔭 Full Stack Development Student in Kenzie Academy Brasil 
+- 🔭 Full Stack Developer | Kenzie Academy Brasil 
 - 📚 Front End Developer with skills in ReactJs,Typescript, Javascript, HTML and CSS 
 - 🔎 I’m currently learning Vue, Python, Node and SQL
 - 📫 Reach me in <a href="https://www.linkedin.com/in/micael-diniz">Linkedin</a> or micaeldiniz6@gmail.com
