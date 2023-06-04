@@ -7,8 +7,8 @@
 </br>
 
 <div align="center">
-  <a href="https://github.com/odevmick">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=odevmick&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/micael-diniz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=micael-diniz&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
